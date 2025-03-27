@@ -1,5 +1,8 @@
 # sms_spam_detecor
 Module Challenge 21
+
+
+
 📱 SMS Spam Detector 🕵️‍♂️
 Overview
 This project implements a machine learning solution to classify SMS messages as either legitimate messages (ham) or unwanted messages (spam). Using natural language processing and a Support Vector Machine classifier, the model achieves high accuracy in identifying potentially harmful or annoying spam messages.
